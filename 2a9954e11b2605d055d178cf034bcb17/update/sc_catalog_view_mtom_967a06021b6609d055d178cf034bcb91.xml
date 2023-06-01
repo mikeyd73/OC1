@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="OC Demo">7c7a06021b6609d055d178cf034bcb1f</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>adminjulie</sys_created_by>
+        <sys_created_on>2022-03-31 17:32:53</sys_created_on>
+        <sys_id>967a06021b6609d055d178cf034bcb91</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OC Demo.catalog_oc_demo</sys_name>
+        <sys_package display_value="OC Demo" source="x_saic4_oc_demo">2a9954e11b2605d055d178cf034bcb17</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_oc_demo">5e7a06021b6609d055d178cf034bcb8f</sys_portal_page>
+        <sys_scope display_value="OC Demo">2a9954e11b2605d055d178cf034bcb17</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_967a06021b6609d055d178cf034bcb91</sys_update_name>
+        <sys_updated_by>adminjulie</sys_updated_by>
+        <sys_updated_on>2022-03-31 17:32:53</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>
